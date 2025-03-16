@@ -12,7 +12,7 @@ Project repo: https://github.com/Soumyajit001/Generative-AI-Medical-Chatbot.git
 ### STEP 01 - Create a conda environment after opening the repository
 
 ```bash
-conda create -n medicalbot python=3.8 -y
+conda create -n medicalbot python=3.13 -y
 ```
 
 ```bash
